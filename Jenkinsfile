@@ -1,4 +1,5 @@
 #!groovy
+Good Morning
 
 node {
     currentBuild.result = "SUCCESS"
